@@ -1,0 +1,14 @@
+.hero-wrapper.ui.grid {
+  margin-top: 40px;
+}
+.hero-wrapper .header-wrapper h1 {
+  font-size: 3rem;
+}
+
+.header-wrapper {
+  margin: 40px 20px;
+}
+
+.hero-wrapper .header-wrapper button {
+  margin: 40px 0;
+}
